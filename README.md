@@ -20,19 +20,4 @@ The following secret variables are used in this repository:
 
 ### Database
 
-The project maintains a SQL database for storing data. Access to the database is private and requires a certificate, username, and password via the `mysql` command-line tool or a staff account to access via phpMyAdmin. The command-line SQL commands used to extract tables in `/raw/` are provided in `/sql/`. Examples of raw data tables exported from the database using these commands are given for staff owners and dogs, including test dogs indicated as `fake==1`.
-
-Elinor Karlsson,7,2
-Kathleen Morrill,7042,9616
-Kathleen Morrill,7042,9621
-Brittney Kenney,4627,6548
-Brittney Kenney,4627,27373
-Chris Husted,25853,30585
-Xue Li,26929,31412
-Xue Li,26929,31413 
-Jessica Hekman,1543,2130
-Jessica Hekman,1543,2131
-Jessica Hekman,1543,12129
-Jesse McClure,6,1
-Jesse McClure,7124,9881
-
+The project maintains a SQL database for storing data. Access to the database is private and requires a certificate, username, and password via the `mysql` command-line tool or a staff account to access via phpMyAdmin. The command-line SQL commands used to extract tables in `/raw/` are provided in `/sql/`. The directory `/raw/YYYYMMDD/` contains examples of raw data tables exported from the database using these commands are given for staff owners and dogs, including test dogs (`fake==1`).
