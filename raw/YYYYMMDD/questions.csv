@@ -1,0 +1,274 @@
+"id","string","format","image","position","survey","tags"
+"1","DOG enjoys life","1",NULL,NULL,"1","CHQLS"
+"2","DOG wants to play","1",NULL,NULL,"1","CHQLS"
+"3","DOG becomes aggressive when excited","1",NULL,NULL,"1","DIAS"
+"4","DOG enjoys playing with toys","1",NULL,NULL,"1","DPQ"
+"5","DOG gets bored in play quickly","1",NULL,NULL,"1","DPQ"
+"6","DOG seeks constant activity","1",NULL,NULL,"1","DPQ"
+"7","Excitement can lead DOG to fixed repetitive behavior","1",NULL,NULL,"1","DIAS"
+"8","DOG calms down very quickly after being excited","1",NULL,NULL,"1","DIAS"
+"9","DOG may become aggressive if HE is frustrated with something","1",NULL,NULL,"1","DIAS"
+"10","DOG is not very patient","1",NULL,NULL,"1","DIAS"
+"11","DOG is relaxed when greeting people","1",NULL,NULL,"2","DPQ"
+"12","DOG is shy","1",NULL,NULL,"2","DPQ"
+"13","DOG is boisterous","1",NULL,NULL,"2","DPQ"
+"14","DOG does not think before HE acts","1",NULL,NULL,"2","DIAS"
+"15","DOG appears to be sorry after HE has done something wrong","1",NULL,NULL,"2","DIAS"
+"16","DOG aggressively guards coveted items (e.g., stolen item, treats, food bowl)","1",NULL,NULL,"2","DPQ"
+"17","DOG howls","2",NULL,NULL,"2",
+"18","DOG Woo-woo barks","2",NULL,NULL,"2",
+"19","DOG whines when alone","2",NULL,NULL,"2",
+"20","DOG whines to get attention, food, or toys","2",NULL,NULL,"2",
+"21","DOG is able to focus on a task in a distracting situation (e.g., loud or busy places, around other dogs)","1",NULL,NULL,"3","DPQ"
+"22","DOG is playful with other dogs","1",NULL,NULL,"3","DPQ"
+"23","When off leash, DOG comes immediately when called","1",NULL,NULL,"3","DPQ"
+"24","DOG likes to chase squirrels, birds, or other small animals","1",NULL,NULL,"3","DPQ"
+"25","DOG moves normally","1",NULL,NULL,"3","CHQLS"
+"26","DOG is as active as HE has been","1",NULL,NULL,"3","CHQLS"
+"27","DOG shows extreme physical signs when excited","1",NULL,NULL,"3","DIAS"
+"28","DOG eats grass","2",NULL,NULL,"3",
+"29","DOG buries toys / bones","2",NULL,NULL,"3",
+"30","DOG eats non-food items","2",NULL,NULL,"3",
+"31","DOG ignores commands","1",NULL,NULL,"4","DPQ"
+"32","DOG is quick to sneak out through open doors, gates","1",NULL,NULL,"4","DPQ"
+"33","DOG sleeps more, is less awake","1",NULL,NULL,"4","CHQLS"
+"34","DOG is slow to respond to corrections","1",NULL,NULL,"4","DPQ"
+"35","DOG escapes from cages, kennels, or enclosures","2",NULL,NULL,"4",
+"36","DOG gets stuck behind objects and is unable to get around","2",NULL,NULL,"4","CCDR"
+"37","DOG walks away or avoids being patted","2",NULL,NULL,"4","CCDR"
+"38","DOG shows barrier aggression","2",NULL,NULL,"4",
+"39","DOG lays in one place all day long","2",NULL,NULL,"4","CHQLS"
+"40","DOG damages doors, gates, or walls","2",NULL,NULL,"4",
+"41","DOG doesn't like to be approached or hugged","1",NULL,NULL,"5","DIAS"
+"42","DOG is friendly towards unfamiliar people","1",NULL,NULL,"5","DPQ"
+"43","DOG responds to my presence","1",NULL,NULL,"5","CHQLS"
+"44","DOG behaves aggressively in response to perceived threats from people (e.g., being cornered, having collar reached for)","1",NULL,NULL,"5","DPQ"
+"45","DOG is a people person","1",NULL,NULL,"5",
+"46","DOG behaves fearfully towards unfamiliar people","1",NULL,NULL,"5","DPQ"
+"47","DOG seems to get excited for no reason","1",NULL,NULL,"5","DIAS"
+"48","DOG behaves aggressively towards unfamiliar people","1",NULL,NULL,"5","DPQ"
+"49","DOG seeks companionship from people","1",NULL,NULL,"5","DPQ"
+"50","DOG must greet everyone who comes to the door","1",NULL,NULL,"5",
+"51","DOG chases bicycles, joggers, and skateboarders","1",NULL,NULL,"6","DPQ"
+"52","DOG works at tasks (e.g., getting treats out of a Kong, shredding toys) until entirely finished","1",NULL,NULL,"6","DPQ"
+"53","DOG leaves food or objects alone when told to do so","1",NULL,NULL,"6","DPQ"
+"54","DOG retrieves objects (e.g., balls, toys, sticks)","1",NULL,NULL,"6","DPQ"
+"55","DOG appears to have a lot of control over how HE responds","1",NULL,NULL,"6","DIAS"
+"56","DOG reacts very quickly","1",NULL,NULL,"6","DIAS"
+"57","DOG is easy to train","1",NULL,NULL,"6","DIAS"
+"58","DOG can be very persistent","1",NULL,NULL,"6","DIAS"
+"59","DOG points","1",NULL,NULL,"6",
+"60","DOG avoids getting wet","1",NULL,NULL,"6",
+"61","DOG has difficulty finding food dropped on the floor","2",NULL,NULL,"7","CCDR"
+"62","DOG licks HIS empty bowl after finishing the food","2",NULL,NULL,"7",
+"63","DOG licks tile / linoleum floors","2",NULL,NULL,"7",
+"64","DOG turns in circles before pooping","2",NULL,NULL,"7",
+"65","DOG kicks or scratches the ground after defecating","2",NULL,NULL,"7",
+"66","DOG lifts HIS leg to urinate","2",NULL,NULL,"7",
+"67","DOG marks with feces","2",NULL,NULL,"7",
+"68","DOG eats HIS own feces","2",NULL,NULL,"7",
+"69","DOG shows submissive urination","2",NULL,NULL,"7",
+"70","DOG drinks water quickly","2",NULL,NULL,"7",
+"71","DOG behaves aggressively toward other dogs","1",NULL,NULL,"8","DPQ"
+"72","DOG willingly shares HIS toys with other dogs","1",NULL,NULL,"8","DPQ"
+"73","DOG is dominant over other dogs","1",NULL,NULL,"8","DPQ"
+"74","DOG avoids other dogs","1",NULL,NULL,"8","DPQ"
+"75","DOG is friendly towards other dogs","1",NULL,NULL,"8","DPQ"
+"76","DOG knows HE is a dog","1",NULL,NULL,"8",
+"77","DOG behaves fearfully towards other dogs","1",NULL,NULL,"8","DPQ"
+"78","DOG behaves aggressively towards cats","1",NULL,NULL,"8","DPQ"
+"79","DOG is assertive or pushy with other dogs (e.g., if in a home with other dogs, when greeting)","1",NULL,NULL,"8","DPQ"
+"80","DOG sometimes fails to recognize familiar people or pets","1",NULL,NULL,"8","CCDR"
+"81","DOG is very interested in and adapts easily to new things and new places","1",NULL,NULL,"9","DIAS DPQ"
+"82","DOG exhibits fearful behaviors when HE is restrained","1",NULL,NULL,"9","DPQ"
+"83","DOG behaves fearfully when groomed (e.g., nails trimmed, brushed, bathed, ears cleaned)","1",NULL,NULL,"9","DPQ"
+"84","DOG is not keen to go into new situations","1",NULL,NULL,"9","DIAS"
+"85","DOG behaves aggressively during visits to the veterinarian","1",NULL,NULL,"9","DPQ"
+"86","DOG is highly sensitive to noise","1",NULL,NULL,"9",
+"87","DOG shows aggression when nervous or fearful","1",NULL,NULL,"9","DPQ"
+"88","DOG behaves fearfully during visits to the veterinarian","1",NULL,NULL,"9","DPQ"
+"89","DOG takes a long time to lose interest in new things","1",NULL,NULL,"9","DIAS"
+"90","DOG is afraid of storms","1",NULL,NULL,"9",
+"91","DOG behaves submissively (e.g., rolls over, avoids eye contact, licks HIS lips) when greeting other dogs","1",NULL,NULL,"10","DPQ"
+"92","DOG rests frog style","2",NULL,NULL,"10",
+"93","DOG paces up and down, walks in circles and/or wanders with no direction or purpose","1",NULL,NULL,"10","CCDR"
+"94","DOG pants frequently, even at rest","1",NULL,NULL,"10","CHQLS"
+"95","DOG stares blankly at the walls or floor","2",NULL,NULL,"10","CCDR"
+"96","DOG tilts HIS head","2",NULL,NULL,"10",
+"97","DOG shakes or trembles occasionally","1",NULL,NULL,"10","CHQLS"
+"98","DOG crosses HIS front paws","2",NULL,NULL,"10",
+"99","DOG shows handedness or side-preference","2",NULL,NULL,"10",
+"100","DOG places HIS paw on my or other people's feet","2",NULL,NULL,"10",
+"101","DOG is lethargic","1",NULL,NULL,"11","DPQ"
+"102","DOG is confident","1",NULL,NULL,"11","DPQ"
+"103","DOG seems dull or depressed, not alert","1",NULL,NULL,"11","CHQLS"
+"104","DOG is anxious","1",NULL,NULL,"11","DPQ"
+"105","DOG is considered to be very impulsive","1",NULL,NULL,"11","DIAS"
+"106","DOG is curious","1",NULL,NULL,"11","DPQ"
+"107","DOG is affectionate","1",NULL,NULL,"11","DPQ"
+"108","DOG tends to be calm","1",NULL,NULL,"11","DPQ"
+"109","DOG is aloof","1",NULL,NULL,"11","DPQ"
+"110","DOG has more good days than bad days","1",NULL,NULL,"11","CHQLS"
+"111","How many hours per day, on average, is DOG...","5",NULL,NULL,"12",
+"112","Per week, how many hours on average does DOG spend...","6",NULL,NULL,"12",
+"113","Where does DOG sleep at night?","7",NULL,NULL,"12",
+"114","Please list the age of each person living in the household.","3",NULL,NULL,"12",
+"115","Please list any other pets or animals in the same household.  For each, please provide a species or breed followed by the calendar year that they joined the household.","3",NULL,NULL,"12",
+"116","What year did you get DOG?","4",NULL,NULL,"12",
+"117","Where did you get DOG?","8",NULL,NULL,"12",
+"118","What do you feed DOG?","3",NULL,NULL,"12",
+"119","Please list any medications that DOG regularly receives.","3",NULL,NULL,"12",
+"120","Has DOG had any formal training? (check all that apply)","9",NULL,NULL,"12",
+"121","When DOG is standing next to someone of average height, how high are HIS shoulders?","10","121",NULL,"13",
+"122","What color is DOG?  Select all that apply.","11",NULL,NULL,"13",
+"123","How much white fur does DOG have? Select the image with the closest amount of white.","12","123",NULL,"13",
+"124","Is DOG's tail curly?","13",NULL,NULL,"13",
+"125","What is DOG's ear shape? Select the image with the closest ear shape.","12","125",NULL,"13",
+"126","Are DOG's eyes different colors?","13",NULL,NULL,"13",
+"127","How long is DOG's fur on HIS back and sides?  Measure it against your finger.","14","127",NULL,"13",
+"128","Does DOG have soft fur or rough and bristly fur?","15",NULL,NULL,"13",
+"129","Please take a photo of DOG from the front against a white or light colored background.","16","129",NULL,"14",
+"130","Please take a photo of DOG from the side against a white or light colored background.","16","130",NULL,"14",
+"144","How much time in a normal day does DOG spend digging (actual digging)?","17",NULL,NULL,"16",NULL
+"145","How much time in a normal day does DOG spend false digging (scratching at floor/carpet/etc)?","17",NULL,NULL,"16",NULL
+"146","How much time in a normal day does DOG spend chasing HIS tail, or circling?","17",NULL,NULL,"16",NULL
+"147","How much time in a normal day does DOG spend catching ""invisible flies""?","17",NULL,NULL,"16",NULL
+"148","How much time in a normal day does DOG spend licking, chewing, or sucking on themself?","17",NULL,NULL,"16",NULL
+"149","How much time in a normal day does DOG spend licking, chewing, or sucking on toys, people, or other pets?","17",NULL,NULL,"16",NULL
+"150","How much time in a normal day does DOG spend showing trance-like behaviour?","17",NULL,NULL,"16",NULL
+"151","How much time in a normal day does DOG spend licking floors?","17",NULL,NULL,"16",NULL
+"152","How much time in a normal day does DOG spend chasing lights or reflections?","17",NULL,NULL,"16",NULL
+"153","It can be difficult to get DOG's attention when HE is engaged in a repetitive behavior.","1",NULL,NULL,"16",NULL
+"154","It can be difficult to interrupt DOG when HE is engaged in a repetitive behavior.","1",NULL,NULL,"16",NULL
+"155","One or more repetitive behaviors interfere with DOG's life.","2",NULL,NULL,"16",NULL
+"156","Course Sports","18",NULL,NULL,"14","SPORT"
+"157","Doggie R&R","18",NULL,NULL,"14","SPORT"
+"158","Fitness","18",NULL,NULL,"14","SPORT"
+"159","Freestyle","18",NULL,NULL,"14","SPORT"
+"160","Herding","18",NULL,NULL,"14","SPORT"
+"161","Protection","18",NULL,NULL,"14","SPORT"
+"162","Pulling","18",NULL,NULL,"14","SPORT"
+"163","Tracking","18",NULL,NULL,"14","SPORT"
+"164","Water Activities","18",NULL,NULL,"14","SPORT"
+"165","DOG Displays friendly tail wagging when greeting an unfamiliar person","1",NULL,NULL,"17","CDTT"
+"166","DOG accepts being petted by an unfamiliar person","1",NULL,NULL,"17","CDTT"
+"167","DOG tucks tail between legs and/or flattens ears when approached by an unfamiliar person","1",NULL,NULL,"17","CDTT"
+"168","DOG is gentle with small children","1",NULL,NULL,"17","CDTT"
+"169","DOG is bold.","1",NULL,NULL,"17","DPQL"
+"170","DOG avoids or is fearful of unfamiliar adults","1",NULL,NULL,"17","CDTT"
+"171","DOG avoids or is fearful of unfamiliar children","1",NULL,NULL,"17","CDTT"
+"172","DOG is easily startled by unexpected contact with objects (e.g., tripping, brushing against a door frame ).","1",NULL,NULL,"17","DPQL"
+"173","DOG is quick to recover after being startled or frightened.","1",NULL,NULL,"17","DPQL"
+"174","DOG is nervous around people with certain characteristics (beards, hats, sunglasses, bald, tall )","1",NULL,NULL,"17",
+"175","DOG is nervous around people in certain environments (while in car or with workers in home, etc. )","1",NULL,NULL,"17",
+"176","What do you feed DOG (brand of dog food, table scraps etc.)?","3",NULL,NULL,"15","Allergy"
+"177","Has DOG ever been diagnosed with, and/or treated for a food allergy?","13",NULL,NULL,"15","Allergy"
+"178","Do you suspect DOG has a food allergy?","13",NULL,NULL,"15","Allergy"
+"179","Has DOG ever been prescribed or provided with an epi-pen or manual injector for epinephrine?","13",NULL,NULL,"15","Allergy"
+"180","How many bowel movements does DOG have on an average day?","19",NULL,NULL,"15","Allergy"
+"181","DOG is prone to itchy ears, inflammation in the ears, and/or ear infections","1",NULL,NULL,"15","Allergy"
+"182","DOG vomits or attempts to vomit","20",NULL,NULL,"15","Allergy"
+"183","Please list any foods that you avoid giving DOG because they make HIM sick.","3",NULL,NULL,"15","Allergy"
+"184","DOG seems to have an upset stomach","20",NULL,NULL,"15","Allergy"
+"185","DOG has itchy skin around HIS face and/or paws","23",NULL,NULL,"15","Allergy"
+"186","Where does DOG sleep at night?","24",NULL,NULL,"18","Allergy"
+"187","Please list any foods that your family avoids (meat, fish, dairy etc.)","3",NULL,NULL,"18","Allergy"
+"188","How many hours per day, on average, is DOG inside the home?","21",NULL,NULL,"18","Allergy"
+"189","Please list any other pets or animals in the same household.  For each, please provide a species or breed followed by the calendar year that they joined the household.","3",NULL,NULL,"18","Allergy"
+"190","Is there evidence of mouse infestation in the home (e.g. mice, mouse droppings)?","13",NULL,NULL,"18","Allergy"
+"191","Is there evidence of mold or mildew in the home?","13",NULL,NULL,"18","Allergy"
+"192","Is your home air conditioned in the summer?","13",NULL,NULL,"18","Allergy"
+"193","Is there exposure in the home to cigarette smoke?","13",NULL,NULL,"18","Allergy"
+"194","DOG is bitten by fleas and/or ticks","2",NULL,NULL,"18","Allergy"
+"195","DOG likes to carry objects (ball, toy, stick) in HIS mouth","2",NULL,NULL,"18","Allergy"
+"196","DOG inspects unfamiliar foods before deciding whether to eat them","1",NULL,NULL,"19","Allergy"
+"197","What percent of DOG's diet is human food?","22",NULL,NULL,"19","Allergy"
+"198","DOG is choosy about what HE eats","1",NULL,NULL,"19","Allergy"
+"199","DOG seems to be hungry all the time","1",NULL,NULL,"19","Allergy"
+"200","DOG attempts to eat non-food items (e.g., feces, stones, sticks)","2",NULL,NULL,"19","Allergy"
+"201","DOG finishes HIS food immediately after being fed","1",NULL,NULL,"19","Allergy"
+"202","DOG refuses to eat certain types of dog food or treats","1",NULL,NULL,"19","Allergy"
+"203","DOG refuses to eat certain human foods that other dogs enjoy","1",NULL,NULL,"19","Allergy"
+"204","DOG continues to seek out foods that have made HIM vomit in the past","1",NULL,NULL,"19","Allergy"
+"205","Has DOG ever been diagnosed with or suspected of anosmia/ageusia (inability to smell/taste)?","13",NULL,NULL,"19","Allergy"
+"206","DOG gets excited when there is food around","2",NULL,NULL,"20","DORA"
+"207","DOG gets human leftovers in HIS food bowl","2",NULL,NULL,"20","DORA"
+"208","DOG hangs around for tidbits even if there is not much chance of getting them","2",NULL,NULL,"20","DORA"
+"209","DOG is choosy about which tidbits HE eats","2",NULL,NULL,"20","DORA"
+"210","DOG hangs around when I am preparing or eating human food","2",NULL,NULL,"20","DORA"
+"211","DOG will turn down food if HE is not hungry","2",NULL,NULL,"20","DORA"
+"212","DOG inspects unfamiliar foods before deciding whether or not to eat them","2",NULL,NULL,"20","DORA"
+"213","After a meal DOG is still interested in eating","2",NULL,NULL,"20","DORA"
+"214","DOG takes HIS time to eat a meal","2",NULL,NULL,"20","DORA"
+"215","DOG eats tidbits straight away","2",NULL,NULL,"20","DORA"
+"216","DOG gets bits of human food when we are eating","2",NULL,NULL,"20","DORA"
+"217","DOG is very fit","25",NULL,NULL,"21","DORA"
+"218","I think DOG could do with losing some weight","25",NULL,NULL,"21","DORA"
+"219","DOG's walks are mostly on the lead","25",NULL,NULL,"21","DORA"
+"220","I restrict DOG's exercise because of veterinary advice","25",NULL,NULL,"21","DORA"
+"221","I alter the food DOG gets in order to control HIS weight","25",NULL,NULL,"21","DORA"
+"222","DOG's walks involve a lot of energetic play or chasing","25",NULL,NULL,"21","DORA"
+"223","I am careful about DOG's weight","25",NULL,NULL,"21","DORA"
+"224","I am happy with DOG's weight","25",NULL,NULL,"21","DORA"
+"225","I am careful to regulate the exercise DOG gets in order to keep HIM slim","25",NULL,NULL,"21","DORA"
+"226","DOG gets a lot of exercise","25",NULL,NULL,"21","DORA"
+"227","DOG spends most of HIS walks off the lead","2",NULL,NULL,"21","DORA"
+"228","DOG runs around a lot","2",NULL,NULL,"21","DORA"
+"229","DOG would eat anything","25",NULL,NULL,"22","DORA"
+"230","DOG often gets human food","25",NULL,NULL,"22","DORA"
+"231","DOG gets an upset tummy on some foods","25",NULL,NULL,"22","DORA"
+"232","DOG seems to be hungry all the time","25",NULL,NULL,"22","DORA"
+"233","DOG has a sensitive stomach","25",NULL,NULL,"22","DORA"
+"234","DOG is very greedy","25",NULL,NULL,"22","DORA"
+"235","DOG regularly sees the vet for health problems","25",NULL,NULL,"22","DORA"
+"236","I weigh or measure how much food I give DOG","25",NULL,NULL,"22","DORA"
+"237","DOG often gets tummy upsets","25",NULL,NULL,"22","DORA"
+"238","DOG gets no food at human mealtimes","25",NULL,NULL,"22","DORA"
+"239","DOG would eat non-food objects like stones, toys, or socks","25",NULL,NULL,"22","DORA"
+"240","DOG finishes a meal straight away","2",NULL,NULL,"22","DORA"
+"241","How old was DOG when you adopted HIM?","26",NULL,NULL,"23",NULL
+"242","What is DOG’s weight? If you don’t know, take your best guess. (First select the unit. Then enter the value below.)","27",NULL,NULL,"23",NULL
+"243","What color is DOG’s coat? If DOG has more than one color, select all the colors closest to HIS coat.","28",NULL,NULL,"23",NULL
+"244","Does DOG have any of these patterns anywhere on HIS body? Pick the pattern(s) closest to what you see. If DOG has more than one pattern, select all the patterns you see in HIS coat.","29","244",NULL,"23",NULL
+"245","What is DOG’s head shape? Select the image with the closest shape.","30","245",NULL,"23",NULL
+"246","When viewing DOG from the side and relative to HIS body, HIS leg length is most like:","31","246",NULL,"23",NULL
+"247","When viewing DOG from the front, HIS chest is most shaped like:","32","247",NULL,"23",NULL
+"248","What other physical features does DOG have? Select all that apply.","33",NULL,NULL,"23",NULL
+"249","What color are DOG’s eyes? If two different colored eyes, select both colors.","34",NULL,NULL,"23",NULL
+"250","What colors are on DOG’s nose and paw pads? Select all that apply.","35",NULL,NULL,"23",NULL
+"251","Has DOG had any teeth extracted or removed?","13",NULL,NULL,"23",NULL
+"252","Enter the country and postal code of your home (where DOG spends the most time):","36",NULL,NULL,"24",NULL
+"253","How many years has DOG lived at this address?","4",NULL,NULL,"24",NULL
+"254","Type of area?","37",NULL,NULL,"24",NULL
+"255","Type of home?","38",NULL,NULL,"24",NULL
+"256","Approximately when was your home built?","39",NULL,NULL,"24",NULL
+"257","What is the approximate square footage of your home, including only spaces that are finished?","4",NULL,NULL,"24",NULL
+"258","Heating fuel source (Check all that apply)","40",NULL,NULL,"24",NULL
+"259","Cooking fuel source (Check all that apply)","40",NULL,NULL,"24",NULL
+"260","Which of the following are present in your home? (Check all that apply)","41",NULL,NULL,"24",NULL
+"261","Which flooring types are present in your home? (Check all that apply)","42",NULL,NULL,"24",NULL
+"262","Has DOG been spayed/neutered?","64",NULL,NULL,"25",NULL
+"263","Do you give flea/tick/heartworm preventatives to DOG, or does HE wear a flea or tick collar? Please select all that apply.","43",NULL,NULL,"25",NULL
+"264","Please list each of the specific flea, tick, and heartworm preventatives DOG receives, if known:","65",NULL,NULL,"25",NULL
+"265","In the last 12 months, how many total ticks did you see either on DOG or having fallen off of DOG ? Please include all ticks whether they were attached, unattached, living, or dead.","62",NULL,NULL,"25",NULL
+"266","Is your home treated to control insects and pests (not including yard)?","44",NULL,NULL,"25",NULL
+"267","How large is the yard at the home?","45",NULL,NULL,"25",NULL
+"268","Is the yard treated to control insects/pests?","63",NULL,NULL,"25",NULL
+"269","Is the yard treated to control weeds?","63",NULL,NULL,"25",NULL
+"270","What percentage of the yard does DOG have regular access to?","4",NULL,NULL,"25",NULL
+"271","Which types of containment and/or chain/leashes do you use when DOG is outside? Please select all that apply.","47",NULL,NULL,"25",NULL
+"272","<i>Questions 1A-1D ask about a typical day for DOG. Please answer the questions below considering the most common type of day in DOG's routine. This refers to both day and nighttime within a ""normal"" 24‐hour period. We realize that you may need to estimate for this question. If there are places that DOG goes frequently but not daily, you will have an opportunity to list those in question 2.</i><br /><br />On a typical day, how many hours does DOG spend indoors at your home (not including the garage or shop)?<br /><br />If DOG spends time at another indoor location on a typical day, you’ll have a chance to enter those hours in another question.","50",NULL,NULL,"26",NULL
+"273","<i>Please answer the questions below considering the most common type of day in DOG's routine. This refers to both day and nighttime within a ""normal"" 24‐hour period. We realize that you may need to estimate for this question. If there are places that DOG goes frequently but not daily, you will have an opportunity to list those in question 2.</i><br /><br />On a typical day, how many hours does DOG spend in a garage or shop?","4",NULL,NULL,"26",NULL
+"274","<i>Please answer the questions below considering the most common type of day in DOG's routine. This refers to both day and nighttime within a ""normal"" 24‐hour period. We realize that you may need to estimate for this question. If there are places that DOG goes frequently but not daily, you will have an opportunity to list those in question 2.</i><br /><br />On a typical day, how many hours does DOG spend outdoors in your yard and/or the outdoor area surrounding your home?<br /><br />If DOG spends time at another outdoor location on a typical day, you’ll have a chance to enter those hours in another question.","51",NULL,NULL,"26",NULL
+"275","<i>Please answer the questions below considering the most common type of day in DOG's routine. This refers to both day and nighttime within a ""normal"" 24‐hour period. We realize that you may need to estimate for this question. If there are places that DOG goes frequently but not daily, you will have an opportunity to list those in question 2.</i><br /><br />On a typical day, how many hours does DOG spend in a different location (i.e. other than your home/yard) whether indoors or outdoors (e.g. your workplace, a petsitter, or doggy daycare facility)?","52",NULL,NULL,"26",NULL
+"276","<i>Question 2 asks about other locations that DOG visits routinely (but less frequently than daily as in Questions 1A-1D). Please add a location if DOG visits the location approximately one day per month or more. Examples might include your workplace, a friend or petsitter's home, training facility, or doggy daycare facility. If you have already listed a location as part of a typical day, you do not need to repeat that information here. Please do not include visits to a groomer here. Grooming frequency is the topic of the next question (Q3).</i><br /><br />Do you regularly take DOG to another indoor location (e.g. your work, a sitter, or doggy daycare facility)?","53",NULL,NULL,"26",NULL
+"277","Do you take DOG to a groomer regularly?","54",NULL,NULL,"26",NULL
+"278","Do you bathe and/or use home grooming products on DOG regularly? Please select all that apply.","55",NULL,NULL,"26",NULL
+"279","Does DOG regularly lick, chew, or play with toys?","56",NULL,NULL,"26",NULL
+"280","Does DOG regularly lick or chew items in the household or environment other than toys?","57",NULL,NULL,"26",NULL
+"281","Does DOG eat/swallow pieces of toys or household/environmental items that are not meant to be eaten (e.g. cotton from stuffed animals, paper, socks)?","58",NULL,NULL,"26",NULL
+"282","What is DOG’s usual source of drinking water? Do you use water filtration for DOG’s drinking water?","59",NULL,NULL,"26",NULL
+"283","Which type of bowls do you use for DOG's food and water? Please select all that apply.","60",NULL,NULL,"26",NULL
+"284","Do you know what types of pipes are in your home (inbound water)? Please select all that apply.","61",NULL,NULL,"26",NULL
+"285","Which of these surfaces does DOG regularly encounter while outdoors? (check all that apply)","49",NULL,NULL,"25",NULL
+"286","Does DOG drink from outdoor water sources (such as lakes, rivers, streams, ponds, puddles, etc.)?","2",NULL,NULL,"25",NULL

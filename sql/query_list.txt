@@ -1,0 +1,8 @@
+dogs
+zipcodes
+surveys
+formats
+questions
+answers
+breeds
+samples
