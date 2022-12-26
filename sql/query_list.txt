@@ -5,4 +5,3 @@ formats
 questions
 answers
 breeds
-samples
