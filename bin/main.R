@@ -1193,7 +1193,7 @@ medications = answers %>%
   filter(n > 1) %>%
   arrange(-n)
 
-medications$search_rxcui = unlist(lapply(lapply(X = medications$word, FUN = function (x) {RxNormR::rx_approximateTerm(x)$approximateGroup$candidate[[1]]$rxcui}), function(x) if (length(x) == 0) 0 else x))
+medications$search_rxcui = unlist(lapply(lapply(X = medications$word, function (x) {RxNormR::rx_approximateTerm(x)$approximateGroup$candidate[[1]]$rxcui}), function(x) if (length(x) == 0) 0 else x))
 
 medications = medications %>%
   filter(search_rxcui != 0) %>%
