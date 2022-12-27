@@ -4,10 +4,10 @@
 
 ### darwins-ark-data
 
-*main.R*: Extract, clean, and prepare raw data tables from Darwin's Ark database for downstream analysis
-*summ.R*: Generate summary statistics about data set
-*efa.R*: Perform exploratory factor analysis of ordinal responses
-*phe.R*: Extraction of phenotypes from survey data
+- `main.R`: Extract, clean, and prepare raw data tables from Darwin's Ark database for downstream analysis
+- `summ.R`: Generate summary statistics about data set
+- `efa.R`: Perform exploratory factor analysis of ordinal responses
+- `phe.R`: Extraction of phenotypes from survey data
 
 #### Secrets
 
