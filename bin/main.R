@@ -86,7 +86,12 @@ freezeDate = args$date
 freezeDir = paste(workDir,"data","database","data_freeze",freezeDate, sep = "/")
 
 ### Load from saved image, if available ----
-load(paste(workDir, "data", paste(paste("DarwinsArk", freezeDate, sep="_"), ".RData", sep=""), sep="/"))
+load(paste(workDir,
+           "dat",
+           paste(paste("DarwinsArk", 
+                       freezeDate, 
+                       sep="_"), 
+                 ".RData", sep=""), sep="/"))
 
 # LOAD AND PARSE DATA ----
 
